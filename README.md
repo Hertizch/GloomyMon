@@ -4,4 +4,9 @@ Does your super bright multi-monitor setup melt your eyeballs while gaming or wa
 
 # Changelog
 
-1.0.0 - January 11th 2016: First release.
+1.1.0 - January 15th 2016:
+* Added: Ability to move the indicator.
+* Added: New indicator.
+
+1.0.0 - January 11th 2016:
+* First release.
